@@ -6,3 +6,9 @@ One of the starting projects. Using basic useState(). Displayed a list of items.
 
 - <b>Javascript</b>
 - <b>React</b>
+
+ 
+<h2>HOW TO START:</h2>
+
+- <b>npm install</b> 
+- <b>npm start</b>
